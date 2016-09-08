@@ -15,4 +15,5 @@
 
 biojs for educational use by students in schools in order 
 to add users and create a spirit biojs students in learning 
-science and the environment
+science and the environment , to support media usage 
+required BioJS smartphones and projector
