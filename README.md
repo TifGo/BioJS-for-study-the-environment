@@ -9,7 +9,7 @@
 * **ORCID** : http://orcid.org/0000-0002-0219-6719
 * **figshare** : https://figshare.com/authors/_/3106902
 * **gitHub** : @tamaasrory
-* **Status** : Draf
+* **Status** : Draft
 
 ### 2. Summary
 
