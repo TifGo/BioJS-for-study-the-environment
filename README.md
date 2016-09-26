@@ -4,12 +4,12 @@
 * **Author** : Tama Asrory Ridhana
 * **University** : Informatic Engineering in UIN SUSKA Riau
 * **Contact** : tama.asrory.ridhana@students.uin-suska.ac.id
+* **Linkedin** : https://www.linkedin.com/in/tamaasrory
 * **facebook** : http://facebook.com/tamaasrory
 * **twitter** : https://twitter.com/TamaAsrory
 * **ORCID** : http://orcid.org/0000-0002-0219-6719
 * **figshare** : https://figshare.com/authors/_/3106902
-* **gitHub** : @tamaasrory
-* **Status** : Draft
+* **gitHub** : https://github.com/tamaasrory
 
 ### 2. Summary
 
